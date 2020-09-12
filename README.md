@@ -1,7 +1,7 @@
 # Laravel Madeline Proto
-[![Latest Stable Version](https://poser.pugx.org/setiawanhu/laravel-madeline-proto/v)](//packagist.org/packages/setiawanhu/laravel-madeline-proto)
-[![Total Downloads](https://poser.pugx.org/setiawanhu/laravel-madeline-proto/downloads)](//packagist.org/packages/setiawanhu/laravel-madeline-proto)
-[![License](https://poser.pugx.org/setiawanhu/laravel-madeline-proto/license)](//packagist.org/packages/setiawanhu/laravel-madeline-proto)
+[![Latest Stable Version](https://poser.pugx.org/devability/laravel-madeline-proto/v)](//packagist.org/packages/devability/laravel-madeline-proto)
+[![Total Downloads](https://poser.pugx.org/devability/laravel-madeline-proto/downloads)](//packagist.org/packages/devability/laravel-madeline-proto)
+[![License](https://poser.pugx.org/devability/laravel-madeline-proto/license)](//packagist.org/packages/devability/laravel-madeline-proto)
 
 A third party Telegram client library [danog/MadelineProto](https://github.com/danog/MadelineProto) wrapper for Laravel.
 
@@ -10,7 +10,7 @@ A third party Telegram client library [danog/MadelineProto](https://github.com/d
 Add the laravel-madeline-proto to the project dependency:
 
 ```shell script
-composer require setiawanhu/laravel-madeline-proto
+composer require devability/laravel-madeline-proto
 ```
 
 Then publish the `telegram.php` config file:
@@ -26,11 +26,11 @@ MP_TELEGRAM_API_ID=... //your telegram api id here
 MP_TELEGRAM_API_HASH=... //your telegram api hash here
 ```
 
-This wrapper package supports for running both [single](https://github.com/setiawanhu/laravel-madeline-proto/wiki/Single-Telegram-Account) / [multiple](https://github.com/setiawanhu/laravel-madeline-proto/wiki/Multiple-Telegram-Account) telegram account.
+This wrapper package supports for running both [single](https://github.com/devability/laravel-madeline-proto/wiki/Single-Telegram-Account) / [multiple](https://github.com/devability/laravel-madeline-proto/wiki/Multiple-Telegram-Account) telegram account.
 
 ## Dig Deeper
 
-Please check [wiki](https://github.com/setiawanhu/laravel-madeline-proto/wiki) for more details about laravel-madeline-proto usage
+Please check [wiki](https://github.com/devability/laravel-madeline-proto/wiki) for more details about laravel-madeline-proto usage
 
 # Notes
 
