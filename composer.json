@@ -1,20 +1,20 @@
 {
-    "name": "setiawanhu/laravel-madeline-proto",
+    "name": "devability/laravel-madeline-proto",
     "description": "A third party Telegram client library danog/MadelineProto wrapper for Laravel",
     "type": "library",
     "license": "AGPL-3.0-only",
     "authors": [
         {
-            "name": "Setiawan Hu",
-            "email": "setiawanhu@gmail.com"
+            "name": "Mahmood A",
+            "email": "devability2020@gmail.com"
         }
     ],
     "require": {
         "php": "^7.4",
         "danog/madelineproto": "^5.1",
-        "illuminate/support": "^7.0",
-        "illuminate/console": "^7.0",
-        "illuminate/database": "^7.0"
+        "illuminate/support": "^6.0",
+        "illuminate/console": "^6.0",
+        "illuminate/database": "^6.0"
     },
     "autoload": {
         "psr-4": {
